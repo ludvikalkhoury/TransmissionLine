@@ -2,6 +2,10 @@
 
 A self-contained browser application for visualizing lossless transmission-line step propagation and reflections. Open `index.html` in any current desktop browser; no installation, Python runtime, web server, or build step is required.
 
+## Open the simulator
+
+**[Click here to open the live Transmission Line Reflection Simulator](https://ludvikalkhoury.github.io/TransmissionLine/)**
+
 The simulator uses event-based superposition of forward and backward voltage steps. It supports load and source reflection coefficients, multiple reflections, position/time voltage plots, current measurements, playback controls, presets, JSON settings, CSV export, and PNG plot export.
 
 ## GitHub Pages
